@@ -4,6 +4,10 @@
 **PROJECT ANALISIS**
 
 
+
+
+
+
 **User profile**
 
 The final user will be a company's HR department employee, who will review my CV for compare it with others to decide whether to hire me for the job. Therefore, my CV must have certain characteristics to attract his attention and to facilitate the drawing of conclusions. For example:
