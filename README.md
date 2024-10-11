@@ -1,12 +1,6 @@
 # Hypermedia-project.-Part-1.-Standard-submission
 
-
 **PROJECT ANALISIS**
-
-
-
-
-
 
 **User profile**
 
@@ -15,7 +9,6 @@ The final user will be a company's HR department employee, who will review my CV
 · Brief, persuasive explanations
 · Colorful style
 · Clear classification of information
-
 
 **Information architecture**
 
