@@ -32,6 +32,24 @@ In each content section, I have separated different points in a list with the ai
 
 **Visual design**
 
+For the visual design of the document, I have made the following general decisions:
+
+· Not to leave any part of the page without a background color, to ensure that the CV stands out against the standard expectations of a white background.
+
+· Make a significant use of icons, to prevent the text from monopolizing everything.
+
+· Maintain consistency between the separations, margins, sizes and fonts of the letter.
+
+· All the sections have a large title above so that the distribution of the content can be clearly distinguished at a glance.
+
+For the visual design of each part:
+
+· Header: my name and photograph are shown in a very large size to highlight what could be considered the title of the entire document. To separate the contacts section from the rest of the header, I have put a longer box with a different background color and a rounded edge.
+
+· Left content column: to make the lists of these sections distinctive, I have put a bullet in front of each element. Since the section titles have the same font as the content, I have made them stand out by using capital letters and a darker background.
+
+· Right content column: here I have made the same design decisions as in the left column, only highlighting the rectangles with rounded edges that I have used to show my speaking level in each language, with the aim of reducing the use of text, as with the use of icons.
+
 **Link to the Figma project**
 
 https://www.figma.com/design/xkn8XrcDAGitou3YpR3gzG/Figma-project?node-id=0-1&t=nxIbjyqKBwZ5G141-1
