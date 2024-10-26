@@ -1,0 +1,128 @@
+h1 {
+	font-size: 4em;
+}
+
+h2 {
+	font-size: 2em;
+	margin-bottom: 50px;
+}
+
+h3 {
+	background-color: lightgray;
+	font-size: 2em;
+}
+
+h3 i {
+	margin-top: 3px;
+	margin-right: 10px;
+	float: right;
+}
+
+ul {
+	margin-bottom: 60px;
+	list-style-type: square;
+}
+
+ul li {
+    margin-bottom: 30px;
+}
+
+ul li::marker {
+    color: gray;
+}
+
+ul.horizontal-list {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0;
+	margin-bottom: 0px;
+}
+
+ul.horizontal-list li {
+    margin-left: 40px;
+}
+
+.header {
+	background-color: lightblue;
+	width: 1000px;
+	height: 325px;
+	font-family: Inter;
+}
+
+.header section {
+	margin-left: 280px;
+}
+
+.header p {
+	width: 400px;
+}
+
+.header img {
+	margin-top: 25px;
+	margin-left: 35px;
+	float: left;
+    width: 210px;
+	height: 275px;
+}
+
+.contact {
+	background-color: lightgreen;
+	border-radius: 0 0 0 50px;
+	width: 300px;
+	height: 375px;
+	font-family: Inter;
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin-top: 53px;
+	margin-right: 100px;
+}
+
+.contact section {
+	margin-top: 35px;
+	margin-left: 30px;
+	width: 200px;
+}
+
+.contact p {
+	margin-bottom: 50px;
+}
+
+.contact i {
+	float: left;
+	margin-right: 10px;
+}
+
+.left-column {
+	background-color: #F0F0F0;
+	width: 1155px;
+	height: 950px;
+	font-family: 'Inria Sans';
+}
+
+.left-column section {
+	margin-top: 75px;
+	margin-left: 30px;
+	margin-bottom: 70px;
+	width: 500px;
+}
+
+.right-column {
+	float: right;
+	position: absolute;
+	top: 490px;
+    left: 625px;
+	font-family: 'Inria Sans';
+}
+
+.right-column section {
+	width: 500px;
+}
+
+.right-column img {
+	float: right;
+	margin-right: 20px;
+	margin-top: 6px;
+	width: 200px;
+	height: 10px;
+}
