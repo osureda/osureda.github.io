@@ -72,10 +72,8 @@ ul.horizontal-list li {
 	height: 375px;
 	font-family: Inter;
 	position: absolute;
-	top: 0;
-	right: 0;
-	margin-top: 53px;
-	margin-right: 100px;
+	top: 53px;
+	left: 863px;
 }
 
 .contact section {
